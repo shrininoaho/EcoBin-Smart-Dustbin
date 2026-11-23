@@ -18,3 +18,8 @@ Trig 4 | Echo 2 | IR 13 | Servo 14
 2. Install ESP32Servo and Blynk libraries
 3. Set your Wi-Fi name, password and Blynk auth token
 4. Upload to the ESP32
+
+
+![EcoBin prototype](image1.jpg)
+![EcoBin lid mechanism](image3.jpg)
+![EcoBin dashboard](image2.jpg)
