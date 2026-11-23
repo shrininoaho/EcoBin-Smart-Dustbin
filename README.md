@@ -20,6 +20,6 @@ Trig 4 | Echo 2 | IR 13 | Servo 14
 4. Upload to the ESP32
 
 
-![EcoBin prototype](image1.jpg)
-![EcoBin lid mechanism](image3.jpg)
-![EcoBin dashboard](image2.jpg)
+![EcoBin prototype](image1.jpeg)
+![EcoBin lid mechanism](image3.jpeg)
+![EcoBin dashboard](image2.jpeg)
