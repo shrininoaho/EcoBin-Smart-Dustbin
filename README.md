@@ -1,6 +1,6 @@
 # EcoBin – IoT Smart Dustbin
 ESP32-based smart dustbin with gesture-activated lid, fill-level sensing, full-bin lockout and Blynk IoT dashboard.
-Published in JIDMIS (Scopus-indexed).
+Accepted in JIDMIS (Scopus-indexed).
 
 ## Hardware
 ESP32, HC-SR04 ultrasonic sensor, IR gesture sensor, servo motor
